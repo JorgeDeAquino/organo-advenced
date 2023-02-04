@@ -27,7 +27,7 @@ const Rodape = () => {
        </section>
        <section>
         <p>
-            Desenvolvido por Jorge Alexandre.
+        Desenvolvido por:  <a href="https://www.linkedin.com/in/jorge-alexandre-de-aquino/" target="_blank"> Jorge Alexandre</a>.
         </p>
        </section>
     </footer>)
